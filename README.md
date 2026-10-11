@@ -3,7 +3,6 @@
 Which SKUs drive revenue, which tie up cash, and where do costs eat the margin?
 
 Built on the dataset from DataCamp's "Inventory Analysis in Power BI" case study.
-I rebuilt and extended the dashboards myself.
 
 ## Dashboards
 ![Management](01_management_dashboard.png)
